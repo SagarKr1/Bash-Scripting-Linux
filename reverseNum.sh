@@ -1,5 +1,6 @@
+#!/bin/sh
 echo -n "Enter a digit: "
-declare -i num
+# declare -i num
 read num
 
 rev=0
